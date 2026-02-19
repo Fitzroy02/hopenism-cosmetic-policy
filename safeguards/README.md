@@ -9,6 +9,8 @@ This section defines mandatory controls for listing quality, safety, and consume
 - [Consumer Protection Charter](./consumer_protection_charter.md)
 - [Prohibited Ingredients](./prohibited_ingredients.md)
 - [Automated Checks Logic](./automated_checks.md)
+- [Ingredient Database Schema](./ingredient_database_schema.md)
+- [Claims Classification Model](./claims_classification_model.md)
 
 ## Purpose
 

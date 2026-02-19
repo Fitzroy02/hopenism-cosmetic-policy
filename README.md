@@ -45,6 +45,11 @@ A regulated ecosystem where:
 - [Governance Charter](governance/charter.md)
 - [Risk Model](governance/risk_model.md)
 - [Seller Policy Pack](governance/seller_policy_pack.md)
+- [Moderation Workflow](governance/moderation_workflow.md)
+- [Incident Response Protocol](governance/incident_response_protocol.md)
+- [Responsible Person Verification](onboarding/responsible_person_verification.md)
+- [Ingredient Database Schema](safeguards/ingredient_database_schema.md)
+- [Claims Classification Model](safeguards/claims_classification_model.md)
 - [Marketplace API Contracts (v1)](api/contracts.md)
 
 ## Status

@@ -10,6 +10,8 @@ This section defines authority, decision rights, and enforcement process.
 - [Governance Charter](./charter.md)
 - [Risk Model](./risk_model.md)
 - [Seller Policy Pack](./seller_policy_pack.md)
+- [Moderation Workflow](./moderation_workflow.md)
+- [Incident Response Protocol](./incident_response_protocol.md)
 
 ## Purpose
 
