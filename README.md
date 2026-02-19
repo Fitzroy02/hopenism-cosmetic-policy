@@ -1,27 +1,45 @@
-# hopenism-cosmetic-policy
+# Safe Cosmetics Marketplace
 
-## Docs
+A governed, transparent, safety-first marketplace for cosmetic products.
+This institution exists to protect consumers, uphold regulatory clarity, and elevate standards in cosmetics commerce.
 
-- [Documentation Home](docs/README.md)
-- [Constitution](docs/constitution.md)
-- [Governance](docs/governance.md)
-- [Safeguards](docs/safeguards.md)
-- [Onboarding](docs/onboarding.md)
-- [Culture](docs/culture.md)
+## Our Core Principles
 
-## Institutional Structure
+- Soft guardrails
+- Traceable authorship
+- Protection before profit
+- No exploitation of regulatory grey zones
+- No enabling unqualified actors
 
-- [Root Constitution](CONSTITUTION.md)
-- [Constitution Section](constitution/README.md)
-- [Manifesto](constitution/manifesto.md)
-- [Governance Section](governance/README.md)
-- [Seller Tiers](governance/seller_tiers.md)
-- [Moderation Playbook](governance/moderation_playbook.md)
-- [Safeguards Section](safeguards/README.md)
-- [Listing Rules](safeguards/listing_rules.md)
-- [Compliance Engine](safeguards/compliance_engine.md)
-- [Consumer Protection Charter](safeguards/consumer_protection_charter.md)
-- [Onboarding Section](onboarding/README.md)
-- [Seller Verification Flow](onboarding/seller_verification_flow.md)
-- [Culture Section](culture/README.md)
-- [Documentation Requirements](docs/documentation_requirements.md)
+## What This Marketplace Is
+
+A regulated ecosystem where:
+
+- every seller is verified
+- every product is documented
+- every listing is traceable
+- every claim is compliant
+- every consumer is protected
+
+## What This Marketplace Is Not
+
+- not an open bazaar
+- not a dropshipping platform
+- not a loophole for unqualified formulators
+- not a space for borderline or medical claims
+
+## Repository Structure
+
+```
+/constitution
+/governance
+/safeguards
+/onboarding
+/culture
+/docs
+```
+
+## Status
+
+This repository is under active development.
+All governance documents are authored with traceability and institutional clarity.

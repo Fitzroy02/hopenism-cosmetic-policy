@@ -20,6 +20,8 @@ This repository maintains governance and operating principles for the Hopenism c
 - [Consumer Protection Charter](../safeguards/consumer_protection_charter.md)
 - [Seller Verification Flow](../onboarding/seller_verification_flow.md)
 - [Documentation Requirements](./documentation_requirements.md)
+- [Initial GitHub Issues](./initial_github_issues.md)
+- [PR Sequence](./pr_sequence.md)
 
 ## How to use this repository
 

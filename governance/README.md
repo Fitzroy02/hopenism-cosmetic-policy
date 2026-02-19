@@ -6,6 +6,7 @@ This section defines authority, decision rights, and enforcement process.
 
 - [Seller Tiers](./seller_tiers.md)
 - [Moderation Playbook](./moderation_playbook.md)
+- [Seller Agreement](./seller_agreement.md)
 
 ## Purpose
 
