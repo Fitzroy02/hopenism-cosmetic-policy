@@ -37,7 +37,15 @@ A regulated ecosystem where:
 /onboarding
 /culture
 /docs
+/api
 ```
+
+## Institutional Modules
+
+- [Governance Charter](governance/charter.md)
+- [Risk Model](governance/risk_model.md)
+- [Seller Policy Pack](governance/seller_policy_pack.md)
+- [Marketplace API Contracts (v1)](api/contracts.md)
 
 ## Status
 

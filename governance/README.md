@@ -8,6 +8,8 @@ This section defines authority, decision rights, and enforcement process.
 - [Moderation Playbook](./moderation_playbook.md)
 - [Seller Agreement](./seller_agreement.md)
 - [Governance Charter](./charter.md)
+- [Risk Model](./risk_model.md)
+- [Seller Policy Pack](./seller_policy_pack.md)
 
 ## Purpose
 

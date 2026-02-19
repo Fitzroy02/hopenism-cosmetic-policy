@@ -15,6 +15,8 @@ This repository maintains governance and operating principles for the Hopenism c
 - [Manifesto](../constitution/manifesto.md)
 - [Seller Tiers](../governance/seller_tiers.md)
 - [Governance Charter](../governance/charter.md)
+- [Risk Model](../governance/risk_model.md)
+- [Seller Policy Pack](../governance/seller_policy_pack.md)
 - [Listing Rules](../safeguards/listing_rules.md)
 - [Compliance Engine](../safeguards/compliance_engine.md)
 - [Moderation Playbook](../governance/moderation_playbook.md)
@@ -33,6 +35,10 @@ This repository maintains governance and operating principles for the Hopenism c
 - [Regulatory Map (UK/EU)](./regulatory_map_uk_eu.md)
 - [Marketplace API Structure](./marketplace_api_structure.md)
 - [Risk Scoring System](./risk_scoring_system.md)
+
+## API Contracts
+
+- [Marketplace API Contracts (v1)](../api/contracts.md)
 
 ## How to use this repository
 
